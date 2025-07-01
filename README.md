@@ -13,8 +13,7 @@ Un portfolio moderne et responsive développé avec Next.js 15, TypeScript et Ta
 
 1. Clonez le repository :
 ```bash
-git clone <votre-repo-url>
-cd portfolio-2-0
+git clone https://github.com/ScorpioOffi/Portfolio-2.0.git
 ```
 
 2. Installez les dépendances :
@@ -80,4 +79,4 @@ Ce projet est sous licence MIT.
 
 ---
 
-Développé avec ❤️ par [Votre Nom]
+Développé avec ❤️ par VEJUX Léo
